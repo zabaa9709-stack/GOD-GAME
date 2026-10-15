@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gamegesture.app.GesturePersistenceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-09-30T15:28:06.693Z" hostname="SOYAB" time="0.227">
+  <properties/>
+  <testcase name="testDefaultPresetsCreatedOnInitialRun" classname="com.gamegesture.app.GesturePersistenceTest" time="0.153"/>
+  <testcase name="testPersistenceAcrossRepositoryInstances" classname="com.gamegesture.app.GesturePersistenceTest" time="0.018"/>
+  <testcase name="testEditAndRenameGesture" classname="com.gamegesture.app.GesturePersistenceTest" time="0.019"/>
+  <testcase name="testSaveAndRetrieveCustomGesture" classname="com.gamegesture.app.GesturePersistenceTest" time="0.018"/>
+  <testcase name="testDeleteGesture" classname="com.gamegesture.app.GesturePersistenceTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gamegesture.app.PracticeModePreviewTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-30T15:28:06.945Z" hostname="SOYAB" time="0.005">
+  <properties/>
+  <testcase name="testRepeatedSequenceDurationCalculation" classname="com.gamegesture.app.PracticeModePreviewTest" time="0.001"/>
+  <testcase name="testTotalEstimatedDurationCalculation" classname="com.gamegesture.app.PracticeModePreviewTest" time="0.001"/>
+  <testcase name="testAllActionTypesEstimatedDurations" classname="com.gamegesture.app.PracticeModePreviewTest" time="0.001"/>
+  <testcase name="testEmptyActionsSequenceDuration" classname="com.gamegesture.app.PracticeModePreviewTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

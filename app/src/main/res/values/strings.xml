@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameGesture</string>
+    <string name="accessibility_service_name">GameGesture Accessibility Service</string>
+    <string name="accessibility_service_description">GameGesture uses this service exclusively to execute user-configured gaming gestures (such as 360° rotational camera swipes, quick taps, and customized movement chains) when triggered via the floating shortcut overlay. No screen content or personal keystrokes are collected or transmitted.</string>
+    <string name="overlay_service_notification_title">GameGesture Overlay Active</string>
+    <string name="overlay_service_notification_text">Floating shortcut engine is ready. Tap the overlay button to trigger your configured action.</string>
+</resources>

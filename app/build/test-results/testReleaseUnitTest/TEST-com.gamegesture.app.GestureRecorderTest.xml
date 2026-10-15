@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gamegesture.app.GestureRecorderTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-30T15:28:06.924Z" hostname="SOYAB" time="0.006">
+  <properties/>
+  <testcase name="testToGestureSequenceTapConversionForMinimalPoints" classname="com.gamegesture.app.GestureRecorderTest" time="0.001"/>
+  <testcase name="testToGestureSequenceStraightSwipe" classname="com.gamegesture.app.GestureRecorderTest" time="0.001"/>
+  <testcase name="testToGestureSequenceCurvedFreeform" classname="com.gamegesture.app.GestureRecorderTest" time="0.0"/>
+  <testcase name="testInitialState" classname="com.gamegesture.app.GestureRecorderTest" time="0.0"/>
+  <testcase name="testJitterFiltering" classname="com.gamegesture.app.GestureRecorderTest" time="0.0"/>
+  <testcase name="testTouchDragRecordingCycle" classname="com.gamegesture.app.GestureRecorderTest" time="0.0"/>
+  <testcase name="testRecorderReset" classname="com.gamegesture.app.GestureRecorderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

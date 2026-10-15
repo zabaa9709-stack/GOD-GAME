@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gamegesture.app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <!-- Overlay permission for floating shortcut button -->
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:6:22-75
+13
+14    <!-- Foreground service for persistent overlay -->
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:9:5-77
+15-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:9:22-74
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+16-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:10:5-89
+16-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:10:22-86
+17
+18    <!-- Post notifications on Android 13+ -->
+19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+19-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:13:5-77
+19-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:13:22-74
+20
+21    <!-- Haptic feedback for tactile shortcut triggers -->
+22    <uses-permission android:name="android.permission.VIBRATE" />
+22-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:16:5-66
+22-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:16:22-63
+23
+24    <permission
+24-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+25        android:name="com.gamegesture.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+25-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+26        android:protectionLevel="signature" />
+26-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+27
+28    <uses-permission android:name="com.gamegesture.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+28-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+29
+30    <application
+30-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:18:5-63:19
+31        android:name="com.gamegesture.app.GameGestureApplication"
+31-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:19:9-47
+32        android:allowBackup="true"
+32-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:20:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.15.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+34        android:extractNativeLibs="false"
+35        android:icon="@mipmap/ic_launcher"
+35-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:21:9-43
+36        android:label="@string/app_name"
+36-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:22:9-41
+37        android:roundIcon="@mipmap/ic_launcher"
+37-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:23:9-48
+38        android:supportsRtl="true"
+38-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:24:9-35
+39        android:theme="@style/Theme.GameGesture" >
+39-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:25:9-49
+40        <activity
+40-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:28:9-37:20
+41            android:name="com.gamegesture.app.MainActivity"
+41-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:29:13-41
+42            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+42-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:31:13-87
+43            android:exported="true"
+43-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:30:13-36
+44            android:theme="@style/Theme.GameGesture" >
+44-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:32:13-53
+45            <intent-filter>
+45-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:33:13-36:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:34:17-69
+46-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:34:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:35:17-77
+48-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:35:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <!-- Accessibility Service for dispatching gesture strokes -->
+53        <service
+53-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:40:9-50:19
+54            android:name="com.gamegesture.app.service.GestureAccessibilityService"
+54-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:41:13-64
+55            android:exported="true"
+55-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:43:13-36
+56            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+56-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:42:13-79
+57            <intent-filter>
+57-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:44:13-46:29
+58                <action android:name="android.accessibilityservice.AccessibilityService" />
+58-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:45:17-92
+58-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:45:25-89
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:47:13-49:72
+62                android:name="android.accessibilityservice"
+62-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:48:17-60
+63                android:resource="@xml/accessibility_service_config" />
+63-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:49:17-69
+64        </service>
+65
+66        <!-- Foreground Service for Floating Overlay Button -->
+67        <service
+67-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:53:9-61:19
+68            android:name="com.gamegesture.app.service.FloatingShortcutService"
+68-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:54:13-60
+69            android:enabled="true"
+69-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:55:13-35
+70            android:exported="false"
+70-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:56:13-37
+71            android:foregroundServiceType="specialUse" >
+71-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:57:13-55
+72            <property
+72-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:58:13-60:99
+73                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+73-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:59:17-76
+74                android:value="Floating game shortcut overlay button for quick gesture trigger" />
+74-->C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\AndroidManifest.xml:60:17-96
+75        </service>
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.gamegesture.app.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\f50f9897a450a0a906c279b17374e53c\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\f50f9897a450a0a906c279b17374e53c\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\f50f9897a450a0a906c279b17374e53c\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+90        </provider>
+91
+92        <receiver
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+94            android:directBootAware="false"
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+95            android:enabled="true"
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+96            android:exported="true"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+97            android:permission="android.permission.DUMP" >
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+102                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+105                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+106            </intent-filter>
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+108                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+109            </intent-filter>
+110        </receiver>
+111    </application>
+112
+113</manifest>

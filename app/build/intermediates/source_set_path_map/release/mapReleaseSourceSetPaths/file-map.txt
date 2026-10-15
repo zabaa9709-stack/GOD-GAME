@@ -1,0 +1,52 @@
+com.gamegesture.app-ui-unit-release-0 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\085fe410a16771ca6b6f721fcfbdd55f\transformed\ui-unit-release\res
+com.gamegesture.app-material-icons-core-release-1 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\138e3382b897638162afea2ed26e84b1\transformed\material-icons-core-release\res
+com.gamegesture.app-lifecycle-viewmodel-compose-release-2 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\14ce419b2a714ebfa844c3d451968026\transformed\lifecycle-viewmodel-compose-release\res
+com.gamegesture.app-tracing-1.2.0-3 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\15adf3ea1fc25f683a6a79b3033b849c\transformed\tracing-1.2.0\res
+com.gamegesture.app-animation-release-4 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\17dbe61d43f7da0b4eeb23b03f5fbb0b\transformed\animation-release\res
+com.gamegesture.app-activity-ktx-1.9.3-5 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\19cfe4bfc90bcc96644e325ac0a576a8\transformed\activity-ktx-1.9.3\res
+com.gamegesture.app-ui-text-release-6 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\1e5948686c0a852257bc39ee49e61f8d\transformed\ui-text-release\res
+com.gamegesture.app-material3-release-7 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\280902efdab0f0ee91acd0afc6588f76\transformed\material3-release\res
+com.gamegesture.app-navigation-common-ktx-2.8.4-8 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\2bf0ba3fbb83191cacf9710ee9734c26\transformed\navigation-common-ktx-2.8.4\res
+com.gamegesture.app-lifecycle-viewmodel-savedstate-2.8.7-9 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\38e565781d277d88102d64b510e1e50c\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.gamegesture.app-emoji2-1.3.0-10 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\3bc6dd88ebcc33a9ae5887d07cb1235b\transformed\emoji2-1.3.0\res
+com.gamegesture.app-material-ripple-release-11 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\42832bcc2fd32b62194a8f0a2f42a5f0\transformed\material-ripple-release\res
+com.gamegesture.app-customview-poolingcontainer-1.0.0-12 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\45406090c49930b04c040faa48437b5d\transformed\customview-poolingcontainer-1.0.0\res
+com.gamegesture.app-savedstate-ktx-1.2.1-13 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\47598c34231f68d8c36dc85c4e3e139c\transformed\savedstate-ktx-1.2.1\res
+com.gamegesture.app-navigation-compose-2.8.4-14 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\47ab11484552db6dfe8a0e8a03d79d3c\transformed\navigation-compose-2.8.4\res
+com.gamegesture.app-activity-1.9.3-15 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\51f902370f47fb5c78027926e604878d\transformed\activity-1.9.3\res
+com.gamegesture.app-core-ktx-1.15.0-16 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\5b180d65ed2ffd38cf103636e41fe777\transformed\core-ktx-1.15.0\res
+com.gamegesture.app-annotation-experimental-1.4.1-17 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\5e11709f20c3e982137c638184918bdc\transformed\annotation-experimental-1.4.1\res
+com.gamegesture.app-ui-release-18 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\613e2d51b5b3c85a9e8451363bc2db7d\transformed\ui-release\res
+com.gamegesture.app-ui-tooling-preview-release-19 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\7226213e0d3477de2d76f4b0e3ef28ff\transformed\ui-tooling-preview-release\res
+com.gamegesture.app-navigation-common-2.8.4-20 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\7ae6b7c63b6b7955e4865eea87446a72\transformed\navigation-common-2.8.4\res
+com.gamegesture.app-lifecycle-runtime-release-21 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\805c66d9e41af156a83d50c2e360af43\transformed\lifecycle-runtime-release\res
+com.gamegesture.app-savedstate-1.2.1-22 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\86e8951d65f03e3816bd633b8e2629ce\transformed\savedstate-1.2.1\res
+com.gamegesture.app-foundation-release-23 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\8d13f59cd628b8f1b86dc1fd2a5a34ca\transformed\foundation-release\res
+com.gamegesture.app-lifecycle-viewmodel-ktx-2.8.7-24 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\9a56eb48e1fc8025baf822914f33db08\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.gamegesture.app-foundation-layout-release-25 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\9cf58e4dc2284605e969ef04320ee794\transformed\foundation-layout-release\res
+com.gamegesture.app-navigation-runtime-ktx-2.8.4-26 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\a3fc96a518562c1bb25725c6f20f7f23\transformed\navigation-runtime-ktx-2.8.4\res
+com.gamegesture.app-activity-compose-1.9.3-27 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\a73dc66350a62737ff8c2459e8c11196\transformed\activity-compose-1.9.3\res
+com.gamegesture.app-lifecycle-viewmodel-release-28 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\a7d5d5e1416c1b2c499d36e19d13db6d\transformed\lifecycle-viewmodel-release\res
+com.gamegesture.app-lifecycle-livedata-core-2.8.7-29 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\a81a42ad29d79dcb86a95baeeca6d2f5\transformed\lifecycle-livedata-core-2.8.7\res
+com.gamegesture.app-ui-util-release-30 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ad2e1b7e267446faffafea46f98c1773\transformed\ui-util-release\res
+com.gamegesture.app-lifecycle-runtime-ktx-release-31 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ba3c72f6e9c5b2259ade9d1199cf0387\transformed\lifecycle-runtime-ktx-release\res
+com.gamegesture.app-profileinstaller-1.3.1-32 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\bffd4d0f520c5155beb04157dc7e0893\transformed\profileinstaller-1.3.1\res
+com.gamegesture.app-graphics-path-1.0.1-33 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\c2b75eb33b50d1e1f0e5660144f838e4\transformed\graphics-path-1.0.1\res
+com.gamegesture.app-material-icons-extended-release-34 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\c583d024d341f8e4c09518c5b2dfa5cf\transformed\material-icons-extended-release\res
+com.gamegesture.app-ui-geometry-release-35 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ccb0bdb6f77dc0527f421fed212aa8f6\transformed\ui-geometry-release\res
+com.gamegesture.app-navigation-runtime-2.8.4-36 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ce8e83e81b9e86982663b54d0208632a\transformed\navigation-runtime-2.8.4\res
+com.gamegesture.app-startup-runtime-1.1.1-37 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\d3881dd185117af4f983778e1530a2e2\transformed\startup-runtime-1.1.1\res
+com.gamegesture.app-ui-graphics-release-38 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\d4656a0dee220b2bddf7000d6f1b2dfc\transformed\ui-graphics-release\res
+com.gamegesture.app-core-runtime-2.2.0-39 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\d46bf3364dca3af6b788b1cfc83fc62d\transformed\core-runtime-2.2.0\res
+com.gamegesture.app-lifecycle-runtime-compose-release-40 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\d579aef205f71b6ee5513279423741d0\transformed\lifecycle-runtime-compose-release\res
+com.gamegesture.app-runtime-saveable-release-41 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\d5d155789f44226c3c7c59d1be9a8e24\transformed\runtime-saveable-release\res
+com.gamegesture.app-animation-core-release-42 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\df12fd64a4d8f1a4f8643c870b5c6c8b\transformed\animation-core-release\res
+com.gamegesture.app-core-1.15.0-43 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\ee54b0845b6d64df79ced6763860d14d\transformed\core-1.15.0\res
+com.gamegesture.app-lifecycle-process-2.8.7-44 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\f50f9897a450a0a906c279b17374e53c\transformed\lifecycle-process-2.8.7\res
+com.gamegesture.app-runtime-release-45 C:\Users\Saurabh\.gradle\caches\8.14.3\transforms\fccdd032374d6a3dd97e629957f6281d\transformed\runtime-release\res
+com.gamegesture.app-resValues-46 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\build\generated\res\resValues\release
+com.gamegesture.app-packageReleaseResources-47 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.gamegesture.app-packageReleaseResources-48 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.gamegesture.app-release-49 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.gamegesture.app-main-50 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\main\res
+com.gamegesture.app-release-51 C:\Users\Saurabh\OneDrive\Desktop\GOD GAME\app\src\release\res

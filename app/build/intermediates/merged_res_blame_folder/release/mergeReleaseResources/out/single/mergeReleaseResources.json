@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.gamegesture.app-release-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gamegesture.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gamegesture.app-release-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.gamegesture.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.gamegesture.app-release-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gamegesture.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gamegesture.app-release-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.gamegesture.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gamegesture.app-release-50:/xml_accessibility_service_config.xml.flat",
+        "source": "com.gamegesture.app-main-51:/xml/accessibility_service_config.xml"
+    }
+]
